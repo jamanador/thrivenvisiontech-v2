@@ -80,21 +80,7 @@ The structure promotes:
 ## 🧑‍💻 About the Developer
 
 Crafted with care by [Jaman Ador](https://jamanador.web.app/)  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/jamaanador/)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/jamanador/)  
 💼 Frontend Specialist • UI/UX Designer • Web App Developer
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 📢 Notes
-
-- Replace image links if hosting screenshots externally.
-- Update the `public/images/screenshots/` folder with your own screenshots for best visual effect on GitHub.
-
----
-
