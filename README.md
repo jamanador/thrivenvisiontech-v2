@@ -1,6 +1,6 @@
 # 🚀 Thrivenvision – Digital Services Website
 
-![Thrivenvision Preview](./public/screenshots/thrivenvisioncover.png)  
+![Thrivenvision Preview](./public/images/screenshots/thrivenvisioncover.png)  
 *A clean, responsive, and scalable website for a modern digital service provider.*
 
 Thrivenvision is a professional web platform designed for a digital services company. Built with **Next.js App Router**, **Tailwind CSS**, and **Firebase**, this application allows users to explore service packages, submit quote requests, and schedule consultations. It also features an admin dashboard for managing portfolio items, pricing, and consultation responses.
@@ -17,7 +17,7 @@ Thrivenvision is a professional web platform designed for a digital services com
 
 | Homepage | About Us | Our Packages |
 |----------|------------------|-------------------|
-| ![Home](./public/screenshots/thrivenvision1.png) | ![About](./public/screenshots/thrivenvision2.png) | ![Our Servcie](./public/screenshots/thrivenvision3.png) |
+| ![Home](./public/images/screenshots/thrivenvision1.png) | ![About](./public/images/screenshots/screenshots/thrivenvision2.png) | ![Our Servcie](./public/images/screenshots/thrivenvision3.png) |
 
 ---
 
